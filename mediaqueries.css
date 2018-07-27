@@ -1,0 +1,77 @@
+@media screen and (max-width: 1110px) {
+	tr td {
+		display:block;
+	}
+	tr td:first-child {
+		background: #fabb7d;
+	} 
+	.tr-top {
+		display: none;
+	}
+	.table-wrapper {
+		margin: 0 10px 0 0;
+		overflow-y: scroll;
+	}
+}
+@media screen and (max-width: 470px) {
+	.one span {
+		display: none;
+	}
+	.one:after {
+		content: "1";
+	}
+	.two span {
+		display: none;
+	}
+	.two:after {
+		content: "2";
+	}
+	.three span {
+		display: none;
+	}
+	.three:after {
+		content: "3";
+	}
+	.four span {
+		display: none;
+	}
+	.four:after {
+		content: "4";
+	}
+	.five span {
+		display: none;
+	}
+	.five:after {
+		content: "5";
+	}
+	.six span {
+		display: none;
+	}
+	.six:after {
+		content: "6";
+	}
+	.seven span {
+		display: none;
+	}
+	.seven:after {
+		content: "7";
+	}
+	.eight span {
+		display: none;
+	}
+	.eight:after {
+		content: "8";
+	}
+	.nine span {
+		display: none;
+	}
+	.nine:after {
+		content: "9";
+	}
+	.ten span {
+		display: none;
+	}
+	.ten:after {
+		content: "10";
+	}
+}
